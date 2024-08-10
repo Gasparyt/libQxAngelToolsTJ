@@ -1,0 +1,8 @@
+Package: com.libqxangeltoolstj.mx
+Name: libQxAngelToolsTJ
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Alert for inject into iPAS
+Maintainer: @qx4ngel
+Author: @qx4ngel
+Section: Tweaks
